@@ -118,7 +118,7 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ## Contact
 
-For any questions or comments, please contact [Your Name](mailto:katircikadir@gmail.com).
+For any questions or comments, please contact [Kadir Katırcı](mailto:katircikadir@gmail.com).
 
 ---
 
